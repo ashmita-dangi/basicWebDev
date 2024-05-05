@@ -78,8 +78,12 @@ body{
     margin: 20px;
 }
 #reset:hover{
+<<<<<<< HEAD
     cursor: pointer;
 }
+=======
+    cursor:pointer;}
+>>>>>>> 36c928e13d8055a3e2e9d3ae747216301f90dd8c
 #reset:active{
     background-color:#f5d3c880 ;
 }
